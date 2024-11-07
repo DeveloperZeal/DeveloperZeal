@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DeveloperZeal
+- 👀 I’m interested in Machine Learning and AI.
+- 🌱 I’m currently learning DSA with Python for Machine Learning.
+- 💞️ I’m looking to collaborate on a startup.
+- 📫 How to reach me sohan0sth@gmail.com / developersohansth@gmail.com 
